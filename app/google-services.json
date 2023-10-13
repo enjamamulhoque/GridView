@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177768971619",
+    "project_id": "recyclerview-5dbc6",
+    "storage_bucket": "recyclerview-5dbc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177768971619:android:22be39e22d90c270e26756",
+        "android_client_info": {
+          "package_name": "com.enjamamulhoque.gridview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjkIEHhEenepfLUDkZNKRMlxtS_C7qro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177768971619:android:7eae51bf489e709ce26756",
+        "android_client_info": {
+          "package_name": "com.enjamamulhoque.recyclerview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjkIEHhEenepfLUDkZNKRMlxtS_C7qro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
